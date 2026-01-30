@@ -37,36 +37,6 @@ An end-to-end **AI-powered interview preparation platform** that helps candidate
 
 ---
 
-## 🏗️ Architecture
-
-```
-
-AI-Interview-Assistant/
-│
-├── backend/                # FastAPI backend
-│   ├── app/
-│   │   ├── main.py
-│   │   ├── routers/
-│   │   │   ├── upload.py
-│   │   │   ├── interview.py
-│   │   │   ├── evaluation.py
-│   │   │   └── analytics.py
-│   │   ├── services/
-│   │   │   └── prompts.py
-│   │   └── utils/
-│   └── requirements.txt
-│
-├── frontend/               # Streamlit frontend
-│   └── app.py
-│
-├── .env
-├── README.md
-└── venv/
-
-````
-
----
-
 ## 🛠️ Tech Stack
 
 ### Backend
