@@ -1,5 +1,4 @@
-```md
-# 🧠 AI Interview Assistant
+### 🧠 AI Interview Assistant
 
 An end-to-end **AI-powered interview preparation platform** that helps candidates practice interviews using their **resume and job description**, receive **tailored interview questions**, **AI-based scoring**, and **performance analytics** — all through a clean, professional UI.
 
