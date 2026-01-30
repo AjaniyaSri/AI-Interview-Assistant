@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+pypdf
+chromadb
+sentence-transformers
+numpy
+sqlite-utils
+
+streamlit
+requests
+python-dotenv
+
+openai
