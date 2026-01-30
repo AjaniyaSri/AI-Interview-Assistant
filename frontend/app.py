@@ -51,7 +51,7 @@ if "overall_result" not in st.session_state:
 # Header
 # ----------------------------
 st.title("🧠 AI Interview Assistant")
-st.caption("Upload Resume + JD → Generate questions → Answer → Get feedback + track progress")
+st.caption("AI-powered interview practice with personalized questions and real-time feedback.")
 
 # ✅ Professional “tabs” that can auto-switch
 tabs = ["Upload", "Interview", "Dashboard"]
